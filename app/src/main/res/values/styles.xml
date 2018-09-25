@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:textColorSecondary">@color/secondaryTextColor</item>
+        <item name="android:colorBackground">@color/backgroundColor</item>
+    </style>
+    <style name="addressTheme" parent="AppTheme">
+        <item name="android:padding">4dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="tagsTheme" parent="addressTheme">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+    </style>
+
+</resources>

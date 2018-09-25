@@ -1,0 +1,8 @@
+<resources >
+    <string name="app_name">Saikle</string>
+    <string name="app_tag">Simply more…</string>
+    <string name="location">"Nathan House,\nJuja."</string>
+    <string name="website">saikle.co.ke</string>
+    <string name="contactTag">Let\'s get you moving</string>
+    <string name="banner_description">Saikle logo showing a bicycle wheel with a city on its surface</string>
+</resources>
